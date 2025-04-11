@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ruiz, Nayarit</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #006400;
+            color: white;
+            padding: 20px 0;
+            text-align: center;
+        }
+        .container {
+            padding: 20px;
+            max-width: 900px;
+            margin: auto;
+            background-color: white;
+        }
+        h2 {
+            color: #006400;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+        }
+        .section {
+            margin-bottom: 30px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Ruiz, Nayarit</h1>
+    </header>
+
+    <div class="container">
+        <div class="section">
+            <h2>¿Donde esta ubicado?</h2>
+            <p>Ruiz es un municipio situado en la regi n norte de Nayarit, M xico. Limita al norte con el estado de Durango, al sur con el municipio de Tepic, y al oeste con el municipio de Santa Mar a del Oro.</p>
+            <img src="paisajeRuiz.jpg" alt="Paisaje de Ruiz">
+        </div>
+
+        <div class="section">
+            <h2>Fiestas Tradicionales</h2>
+            <p>Entre las principales fiestas de Ruiz se destacan las celebraciones en honor a San Juan Bautista, patr n del municipio, que se celebran a finales de junio. Adem s, se realizan diversas festividades locales que incluyen m sica, danzas y tradiciones populares.</p>
+            <img src="fiestaRuiz.jpg" alt="Fiestas en Ruiz">
+        </div>
+
+        <div class="section">
+            <h2>¿Que produce?</h2>
+            <p>Ruiz tiene una economia diversificada, centrada principalmente en la agricultura, destac ndose la producci n de ca a de az car, ma z, y frijol. Adem s, en la zona se lleva a cabo ganader a y algunas actividades pesqueras.</p>
+            <img src="productoRuiz.jpg" alt="Produccion de caña de azucar en Ruiz">
+        </div>
+    </div>
+
+</body>
+</html>

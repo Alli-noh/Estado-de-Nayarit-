@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>San Blas, Nayarit</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #006400;
+            color: white;
+            padding: 20px 0;
+            text-align: center;
+        }
+        .container {
+            padding: 20px;
+            max-width: 900px;
+            margin: auto;
+            background-color: white;
+        }
+        h2 {
+            color: #006400;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+        }
+        .section {
+            margin-bottom: 30px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>San Blas, Nayarit</h1>
+    </header>
+
+    <div class="container">
+        <div class="section">
+            <h2> Donde esta  ubicado?</h2>
+            <p>San Blas es un municipio situado en la costa oeste de Nayarit, Mexico. Limita al norte con el estado de Sinaloa, al sur con el municipio de Tepic, y al este con el municipio de Santiago Ixcuintla. Es conocido por su puerto y su belleza natural.</p>
+            <img src="SanBlas1.jpg" alt="Paisaje de San Blas">
+        </div>
+
+        <div class="section">
+            <h2>Fiestas Tradicionales</h2>
+            <p>Las fiestas tradicionales de San Blas incluyen la celebracion de la fiesta en honor a San Blas, patrono del municipio, que se celebra el 3 de febrero con una gran procesion, musica y eventos religiosos. Tambien destacan las festividades en honor a la Virgen de Guadalupe, celebradas el 12 de diciembre.</p>
+            <img src="SanBlas2.jpg" alt="Fiestas en San Blas">
+        </div>
+
+        <div class="section">
+            <h2> Que produce?</h2>
+            <p>La economia de San Blas est  centrada en la pesca, la agricultura y el turismo. Se cultivan productos como el maiz, el frijol y la caña de azucar, y la pesca es una actividad importante debido a su ubicacion costera. El turismo tambien es relevante gracias a sus playas y su puerto historico.</p>
+            <img src="SanBlas3.jpg" alt="Pesca en San Blas">
+        </div>
+    </div>
+
+</body>
+</html>
